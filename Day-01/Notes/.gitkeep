@@ -1,0 +1,88 @@
+# Day 01 - Introduction to Cybersecurity
+
+## What is Cybersecurity?
+
+Cybersecurity is the practice of protecting computers, networks, applications, devices, and data from unauthorized access, attacks, damage, or theft.
+
+## Why Cybersecurity is Important
+
+Cybersecurity protects:
+
+- Personal information
+- Financial information
+- Business data
+- Computer systems
+- Networks
+- Cloud resources
+- Applications
+
+## Common Cybersecurity Threats
+
+1. Malware
+2. Phishing
+3. Password attacks
+4. Ransomware
+5. Denial of Service (DoS)
+6. Man-in-the-Middle attacks
+7. Social Engineering
+8. Data breaches
+
+## Types of Cybersecurity
+
+### 1. Network Security
+Protects computer networks from unauthorized access and attacks.
+
+### 2. Application Security
+Protects software applications from vulnerabilities and attacks.
+
+### 3. Information Security
+Protects data from unauthorized access, modification, or destruction.
+
+### 4. Cloud Security
+Protects cloud infrastructure, applications, services, and data.
+
+### 5. Endpoint Security
+Protects devices such as laptops, desktops, and mobile devices.
+
+## CIA Triad
+
+The CIA Triad is one of the fundamental concepts of cybersecurity.
+
+### Confidentiality
+Ensures that information is accessible only to authorized users.
+
+Examples:
+- Passwords
+- Encryption
+- Access control
+
+### Integrity
+Ensures that data is accurate and has not been changed without authorization.
+
+Examples:
+- Hashing
+- Digital signatures
+- File integrity monitoring
+
+### Availability
+Ensures that systems and data are available when required.
+
+Examples:
+- Backups
+- Redundant systems
+- Disaster recovery
+
+## Basic Security Principles
+
+- Strong passwords
+- Multi-factor authentication
+- Regular software updates
+- Antivirus protection
+- Firewalls
+- Data backups
+- Least privilege
+- Secure network configuration
+
+## Day 01 Learning Outcome
+
+After completing Day 01, I understood the basics of cybersecurity, common threats, cybersecurity domains, and the CIA Triad.
